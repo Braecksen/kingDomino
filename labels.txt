@@ -1,0 +1,83 @@
+1 = grass | 2 = water | 3 = forest | 4 = waste | 5 = mine | 6 = farm | 7 = table/nothing
+y = yellow start | r = red start | b = blue start | g = green start
+c = crown
+
+
+
+starting from 1.jpg to 74.jpg
+
+
+1 2 3 3 3 1 3 3 3c 1 1 4c y 3 1 1 4cc 2 1cc 1c 3 2c 2 1c 6
+6 4 6 5cc 4 5c 4c 6 6 3 5cc 4 r 6 6 5cc 5ccc 1 1 6c 6 6 4 4 1
+4cc 6c 3 3 3 6 6 3c 3 3 5 6c g 3 2c 6 3c 3 3c 2 2 2 2c 3 2c
+2c 6 6c 4 6 2 6c 1cc 1 6 2 6 6 6 6 2c 6 6 3c 3c 2 2 b 2 2
+1 2 3 3 3 1 3 3 3c 1 1 4c y 3 1 1 4cc 2 1cc 1c 3 2c 2 1c 6
+6 4 6 5cc 4 5c 4c 6 6 3 5cc 4 r 6 6 5cc 5ccc 1 1 6c 6 6 4 4 1
+4cc 6c 3 3 3 6 6 3 3 3 5 6c g 3 2c 6 3c 3 3c 2 2 2 2c 3 2c
+2c 6 6c 4 6 2 6c 1cc 1 6 2 6 6 6 6 2c 6 6 3c 3c 2 2 b 2 2
+7 5cc 6 6c 1 6 1c 2 6c 3c 7 1 1cc 6 6 6 4c 6 6 y 4c 4 6c 6 2
+6c 5 5cc 5cc 7 2 3c 4 4 7 2 2 r 4cc 6 2 2c 3 6 6 2 2c 3 3c 3
+3 3c 3 3 3 2c 6 6c 3 3 2c 6 6 3c g 2 1c 1 3c 3 7 7 1 3 3
+6 6 1 1 7 3 2c 2 2 7 1 1 1cc 3 2 1 4cc 1 6 2 4 4 b 6 2c
+7 5cc 6 6c 1 6 1c 2 6c 3c 7 1 1cc 6 6 6 4c 6 6 y 4c 4 6c 6 2
+6c 5 5cc 5cc 7 2 3c 4 4 7 2 2 r 4cc 6 2 2c 3 6 6 2 2c 3 3c 3
+3 3c 3 3 3 2c 6 6c 3 3 2c 6 6 3c g 2 1c 1 3c 3 7 7 1 3 3
+6 6 1 1 7 3 2c 2 2 7 1 1 1cc 3 2 1 4cc 1 6 2 4 4 b 6 2c
+4 1 4cc 6 3 4 1 4 6 3 4cc 1 b 6 3c 4c 1c 2 2c 3 6 1cc 2 2 2
+1 3c 6 6 2 7 3 3c 6 6c 7 3 g 6c 6 3 3c 3 3 3c 2 2 3 3 3
+6c 1 3 1 2 6 1c 1 1 6 5cc 4 r 3 6 5cc 5ccc 6 3c 4 6 6 6 6 6c
+2c 2 2 2 2 3 4c 1 3 2c 5cc 4 y 3 2c 5c 5 1 1cc 2c 6 6c 6 6 6
+4 1 4cc 6 3 4 1 4 6 3 4cc 1 b 6 3c 4c 1c 2 2c 3 6 1cc 2 2 2
+1 3c 6 6 2 7 3 3c 6 6c 7 3 g 6c 6 3 3c 3 3 3c 2 2 3 3 3
+6c 1 3 1 2 6 1c 1 1 6 5cc 4 r 3 6 5cc 5ccc 6 3c 4 6 6 6 6 6c
+2c 2 2 2 2 3 4c 1 3 2c 5cc 4 y 3 2c 5c 5 1 1cc 2c 6 6c 6 6 6
+7 2 2c 2c 6 7 3 3 2 6c 2 3c g 2 6 2c 3 4 5cc 6 1 3c 5cc 5 6c
+3 3 3 3 2 3c 6 3 3 2 5c 6 y 3 2c 6 6 3c 3 2c 2c 2 2 2 2
+1 1 6 6 6 2 1c 1cc 6 3 2 1cc r 6 3c 1c 1 6 6c 3 6 1 3c 3 3
+5cc 5ccc 6 6c 4 4 4cc 1 1 3 4 4 4c 1 b 4cc 4c 4 1 1 6 6 6 6 6c
+6 6c 6 6 6c 2c 2 2 5cc 5 2c 3 g 4 5cc 2 3 3c 3 3c 7 7 2 2c 1
+3 3 3 3 2 3c 6 3 3 2 5c 6 y 3 2c 6 6 3c 3 2c 2c 2 2 2 2
+1 1 6 6 6 2 1c 1cc 6 3 2 1cc r 6 3c 1c 1 6 6c 3 6 1 3c 3 3
+5cc 5ccc 6 6c 4 4 4cc 1 1 3 4 4 4c 1 b 4cc 4c 4 1 1 6 6 6 6 6c
+1cc 6 2c 2 2c 6 6c 4 6 3 2c 6 y 3 3 2c 3 3 3 7 2c 3 6 6 7
+4 4 r 1 1 4cc 6 6 1 1c 4 5cc 6 6 6 4cc 1 6 3c 6c 3 1 6 5c 2
+4c 6 3 3 3 4 3c 3 2c 2 6 6 b 2 2 6 6 6c 2 2 5ccc 5cc 5 5cc 4
+6 3c 3 3 4c 6c 6 3 g 1 1 6c 3 3c 1 2 3c 3c 1 1 2 6 2 1cc 2
+1cc 6 2c 2 2c 6 6c 4 6 3 2c 6 y 3 3 2c 3 3 3 7 2c 3 6 6 7
+4 4 r 1 1 4cc 6 6 1 1c 4 5cc 6 6 6 4cc 1 6 3c 6c 3 1 6 5c 2
+4c 6 3 3 3 4 3c 3 2c 2 6 6 b 2 2 6 6 6c 2 2 5ccc 5cc 5 5cc 4
+6 3c 3 3 4c 6c 6 3 g 1 1 6c 3 3c 1 2 3c 3c 1 1 2 6 2 1cc 2
+6 4 6c 3 2c 1cc 1 6 6 2 3 2c 2 2 2 5cc 4 6 3c 2 5ccc 6 6 3 y
+6c 2 2 3 3 6 6 3c 3 3 6 2c 3 3 4 6 2c 2 3c 5cc 6 6 6 3c b
+3c 3 3 6c 6c 1 1 1 6c 5 2 1c g 6 5c 4cc 1 1c 6 1 2 1cc 1 1 1
+6 4 6c 3 2c 1cc 1 6 6 2 3 2c 2 2 2 5cc 4 6 3c 2 5ccc 6 6 3 y
+3 2 4c 6 1 3 6 4 4cc 4c r 6 5cc 4 4 3 6 6 2c 2 3 3c 3 2c 2
+6c 2 2 3 3 6 6 3c 3 3 6 2c 3 3 4 6 2c 2 3c 5cc 6 6 6 3c b
+3c 3 3 6c 6c 1 1 1 6c 5 2 1c g 6 5c 4cc 1 1c 6 1 2 1cc 1 1 1
+2 4cc 6 3 3 6c 6 6 6 3c 6c 6 y 6 3c 4 5c 5cc 6 6 4 4 4 4c 4
+6 2 2c 3 3 6 3 5ccc 6 2 5c 1 r 2 2 1cc 1 3 2c 2c 6 6 3c 3 3
+3 3 3c 6 1 3 3c 3 6c 1 3 2 b 6 1 2 2c 6 6c 5 2 2 2 4 5cc
+1c 1 2c 2c 6 2 3c 3 5cc 6 3 3 g 1 6c 6 4cc 2 1 6 1c 1 1cc 1 6
+2 4cc 6 3 3 6c 6 6 6 3c 6c 6 y 6 3c 4 5c 5cc 6 6 4 4 4 4c 4
+6 2 2c 3 3 6 3 5 6 2 4c 1 r 2 2 1cc 1 3 2c 2c 6 6 3c 3 3
+3 3 3c 6 1 3 3c 3 6c 1 3 2 b 6 1 2 2c 6 6c 5 2 2 2 4 5cc
+1c 1 2c 2c 6 2 3c 3 5cc 6 3 3 g 1 6c 6 4cc 2 1 6 1c 1 1cc 1 6
+5cc 3 2c 2 2 6 3 2c 2 2 6 6 5cc 2 2c 4cc 4 4 3c 3 4 4 r 6 3c
+1 3c 1 1 2 1 3 1cc 6 3 1 1 1 6c b 1 4c 1 6 6c 1 4cc 1cc 2 2
+6 4 4c 4 y 5c 5cc 6 6 3c 5 6c 6 3 3 2 6 6 6 3c 1c 1c 6 3 3
+5ccc 6 g 6 2 3c 6 2c 6 2c 3 6 6 6c 2 3 3 6c 4 2 3 3 3 3 2c
+5cc 3 2c 2 2 6 3 2c 2 2 6 6 5cc 2 2c 4cc 4 4 3c 3 4 4 r 6 3c
+1 3c 1 1 2 1 3 1cc 6 3 1 1 1 6c b 1 4c 1 6 6c 1 4cc 1cc 2 2
+6 4 4c 6 y 5c 5cc 6 6 3c 5 6c 6 3 3 2 6 6 6 3c 1c 1c 6 3 3
+5ccc 6 g 6 2 3c 6 2c 6 2c 3 6 6 6c 2 3 3 6c 4 2 3 3 3 3 2c
+3 3c 3c 3c 3 3 6 6 6 6c 3c 6 6 6 6 3 6 3 3 6 3 3 3 3 r
+1 1 2 6 4 3c 1 1 6c 6 3 1 1cc 6 b 2 1c 1c 6 6 2 1cc 1 1 1
+6c 6 6 6 6c 4 5c 5ccc 5cc 5 4 5cc 5cc 4cc 6 4c 6 4 4c 1 4 4 4cc 1 y
+2 2 2 2 g 2c 6 2 2c 2 2c 6 6c 3 3 2 3 3c 3 3 2 2c 2 2c 2c
+3 3c 3c 3c 3 3 6 6 6 6c 3c 6 6 6 6 3 6 3 3 6 3 3 3 3 r
+6c 6 6 6 6c 4 5c 5ccc 5cc 5 4 5cc 5cc 4cc 6 4c 6 4 4c 1 4 4 4cc 1 y
+2 2 2 2 g 2c 6 2 2c 2 2c 6 6c 3 3 2 3 3c 3 3 2 2c 2 2c 2c
+3 3c 3c 3c 3 3 6 6 6 6c 3c 6 6 6 6 3 6 3 3 6 3 3 3 3 r
+1 1 2 6 4 3c 1 1 6c 6 3 1 1cc 6 b 2 1c 1c 6 6 2 1cc 1 1 1
+6c 6 6 6 6c 4 5c 5ccc 5cc 5 4 5cc 5cc 4cc 6 4c 6 4 4c 1 4 4 4cc 1 y
+2 2 2 2 g 2c 6 2 2c 2 2c 6 6c 3 3 2 3 3c 3 3 2 2c 2 2c 2c
